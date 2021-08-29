@@ -1,0 +1,27 @@
+/* User card btn */
+
+.card {
+    transition: all 0.3s ease-in-out;
+    width: 100%;
+    background-color: #ffc107;
+    color: #1A1C1F;
+    padding: 40px 40px;
+    border-radius: 30px;
+  }
+  
+  .card:hover {
+    background-color: #6f42c1;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  .row img {
+    border-radius: 50%;
+    ;
+  }
+  
+  .box {
+    padding: 30px 30px;
+    font-size: 20px;
+  }
+  
