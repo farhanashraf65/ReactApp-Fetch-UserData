@@ -2,7 +2,7 @@
 
 >Task_2 Intermediate Level - Create a Web Application using create-react-app
 
- "To create a app where we fetches a user data yby api (https://reqres.in/api/users?page=1)"
+ "To create a app where we fetches a user data by using api (https://reqres.in/api/users?page=1)"
 
   The task is created by using
 
