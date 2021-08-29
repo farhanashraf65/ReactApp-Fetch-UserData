@@ -1,12 +1,12 @@
-# LetsGrowMore_LGMVIP_WebDev_TASK-1
+# LetsGrowMore_LGMVIP_WebDev_TASK-2
 
->ask_2 Intermediate Level - Create a Web Application using create-react-app
+>Task_2 Intermediate Level - Create a Web Application using create-react-app
 
-"To create a app where we fetches a user data yby api (https://reqres.in/api/users?page=1)"
+ "To create a app where we fetches a user data yby api (https://reqres.in/api/users?page=1)"
 
-The task is created by using
+  The task is created by using
 
-React.js
+  React.js
 
 >Made by FARHAN ASHRAF 29 Aug, 2021
 
