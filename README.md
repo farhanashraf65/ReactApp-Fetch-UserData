@@ -1,15 +1,10 @@
-# LetsGrowMore_LGMVIP_WebDev_TASK-2
+# ReactApp fetch UserApp data using api
 
->Task_2 Intermediate Level - Create a Web Application using create-react-app
+> Create a Web Application using create-react-app
 
- "To create a app where we fetches a user data by using api (https://reqres.in/api/users?page=1)"
+"To create a app where we fetches a user data by using api (https://reqres.in/api/users?page=1). Created by using React.js "
 
-  The task is created by using
-
-  React.js
-
->Made by FARHAN ASHRAF 29 Aug, 2021
-
+>Made by FARHAN ASHRAF
 
 # Getting Started with Create React App
 
